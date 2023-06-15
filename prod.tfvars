@@ -1,0 +1,11 @@
+resource_group_name = "prodrg"
+resource_group_location = "UK South"
+mssqlservername = "prodsldatabse01server"
+mssqlversion = "12.0"
+mssqllogin = "sqladmin"
+mssqlpassword = "Azure@123456"
+publicnetworkaccessenabled = true
+mssqldatabasename = "prodsldatabse01"
+collation = "SQL_Latin1_General_CP1_CI_AS"
+size = 4
+skuname = "S0"

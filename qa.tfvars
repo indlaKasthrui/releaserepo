@@ -1,0 +1,11 @@
+resource_group_name = "qarg"
+resource_group_location = "West US"
+mssqlservername = "qasldatabse01server"
+mssqlversion = "12.0"
+mssqllogin = "sqladmin"
+mssqlpassword = "Azure@123456"
+publicnetworkaccessenabled = true
+mssqldatabasename = "qasldatabse01"
+collation = "SQL_Latin1_General_CP1_CI_AS"
+size = 4
+skuname = "S0"
