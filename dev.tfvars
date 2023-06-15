@@ -7,5 +7,5 @@ mssqlpassword = "Azure@123456"
 publicnetworkaccessenabled = true
 mssqldatabasename = "devsldatabse01"
 collation = "SQL_Latin1_General_CP1_CI_AS"
-size = 4
+size = "10"
 skuname = "S0"
